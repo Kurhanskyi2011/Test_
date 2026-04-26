@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "kmatvij2203@gmail.com",
+      "password": "$2b$10$BtzC9HdgzpSQtxLmMvv5Ou6BomUSNKBCe7TXuLulfUdneXUIkb49u"
+    }
+  ],
+  "resetCodes": {
+    "kmatvij2203@gmail.com": "Z3KUKA"
+  }
+}
